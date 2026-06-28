@@ -58,7 +58,7 @@
 |---------|-------------|------|
 | **PassMate AI** | AI 기반 개인 맞춤형 시험 학습 플랫폼 | Next.js · TypeScript · FastAPI |
 | **HipMap** | AR 기반 위치 기록 및 공유 서비스 | Android · Unity · Firebase |
-| **Unity 2D Game** | Unity 기반 2D 게임 | Unity · C# |
+| **마음 도시락** | Unity 기반 2D 게임 | Unity · C# |
 
 ---
 
