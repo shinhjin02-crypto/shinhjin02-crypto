@@ -59,10 +59,10 @@
 ## 🚀 Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| **PassMate AI** | AI 기반 개인 맞춤형 시험 학습 플랫폼 | Next.js · TypeScript · FastAPI |
-| **HipMap** | AR 기반 위치 기록 및 공유 서비스 | Android · Unity · Firebase |
-| **마음 도시락** | Unity 기반 2D 게임 | Unity · C# |
+| --- | --- | --- |
+| **PassMate AI**<br><br><img src="./assets/passmate.png" width="300"> | AI 기반 개인 맞춤형 시험 학습 플랫폼 | Next.js · TypeScript · FastAPI |
+| **HipMap**<br><br><img src="./assets/hipmap.png" width="300"> | AR 기반 위치 기록 및 공유 서비스 | Android · Unity · Firebase |
+| **마음 도시락**<br><br><img src="./assets/menu.png" width="300"> | Unity 기반 2D 게임 | Unity · C# |
 
 ---
 
