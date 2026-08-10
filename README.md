@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:FCE7F3,35:F9A8D4,65:F472B6,100:FCE7F3&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%8B%A0%ED%98%9C%EC%A7%84%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontColor=111827&fontSize=40&fontAlignY=43&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:FCE7F3,35:F9A8D4,65:F472B6,100:FCE7F3&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%8B%A0%ED%98%9C%EC%A7%84%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontColor=111827&fontSize=40&fontAlign=50&fontAlignY=43&animation=fadeIn"/>
 
-</div>
+<br>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=760&lines=%EA%B8%B0%EB%8A%A5%EC%9D%84+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94+%EA%B2%83%EC%97%90%EC%84%9C+%EB%81%9D%EB%82%98%EC%A7%80+%EC%95%8A%EA%B3%A0;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C+%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=2500&pause=1000&color=EC4899&center=true&vCenter=true&repeat=true&width=1000&lines=%EA%B8%B0%EB%8A%A5%EC%9D%84+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94+%EA%B2%83%EC%97%90%EC%84%9C+%EB%81%9D%EB%82%98%EC%A7%80+%EC%95%8A%EA%B3%A0;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C+%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4"/>
 
 </div>
 
