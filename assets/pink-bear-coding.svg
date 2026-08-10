@@ -92,7 +92,7 @@
   연결합니다.
 </text>
 
-<rect x="347" y="204" width="6" height="12" fill="#FACC15">
+<rect x="340" y="205" width="5" height="11" fill="#FACC15">
   <animate attributeName="opacity" values="1;0;1" dur="0.75s" repeatCount="indefinite"/>
 </rect>
 
